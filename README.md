@@ -1,2 +1,3 @@
-# SIP-CALCULATOR
-Features:      Calculates the future value of monthly SIP investments.     User-friendly input options for amount, duration, and expected return.     Provides a breakdown of total contributions and expected returns.
+# SIP-CALCULATOR : Plan your future investment
+
+Calculate the future value of your monthly SIP contributions.
